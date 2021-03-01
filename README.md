@@ -42,8 +42,8 @@
 
 ### Contribution
 - Front-End developer for:
-+ https://www.officecomponent.com/
-+ https://www.severium.com/
+  + https://www.officecomponent.com/
+  + https://www.severium.com/
 - Search Engine Optimization, Document Specialist, Data Analysis, and Tester for the FireClick project - An online tool that helps control the traffic of websites.
 - Logical processing of the customer's query string and handling complex data with JavaScript for ProsperTasks project - A tracking and managing bugs and tasks online service.
 - Shopify Back-end Developer for Ultimate Search & Filter
